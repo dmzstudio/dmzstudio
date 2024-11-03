@@ -55,4 +55,6 @@ Am interested in projects at the intersection of **language**, **linguistics**, 
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=dmzstudio)
+
 Feel free to browse my repositories and connect with me—I'm always excited to collaborate and build new things!
