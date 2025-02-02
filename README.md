@@ -21,7 +21,7 @@ Am interested in projects at the intersection of **language**, **linguistics**, 
 
 - Homebrew
 - ASDF
-- Ruby on Rails 7.2
+- Ruby on Rails 8.0.1
 - Postgresapp  https://postgresapp.com
 - OrbStack  https://orbstack.dev
 - Zed editor  https://zed.dev
