@@ -19,39 +19,42 @@ Am interested in projects at the intersection of **language**, **linguistics**, 
 
 ### Some of the tools in my Dev Stack atm
 
-- Homebrew
-- ASDF
-- Ruby on Rails 8.0.1
-- Postgresapp  https://postgresapp.com
-- OrbStack  https://orbstack.dev
-- Zed editor  https://zed.dev
-- Warp terminal  https://www.warp.dev
-- Arc Browser  https://arc.net
+- Homebrew  [https://brew.sh](https://brew.sh)
+- Bun [https://bun.sh](https://bun.sh)
+- Mise  [https://mise.jdx.dev/getting-started.html](https://mise.jdx.dev/getting-started.html)
+- Ruby on Rails 8.0.1  [https://guides.rubyonrails.org/v8.0/index.html](https://guides.rubyonrails.org/v8.0/index.html)
+- Postgresapp  [https://postgresapp.com](https://postgresapp.com)
+- OrbStack  [https://orbstack.dev](https://orbstack.dev)
+- Zed editor  [https://zed.dev](https://zed.dev)
+- Warp terminal  [https://www.warp.dev](https://www.warp.dev)
+- Arc Browser  [https://arc.net](https://arc.net)
+- JetBrains ToolBox  [https://www.jetbrains.com/toolbox-app](https://www.jetbrains.com/toolbox-app)
+- Poetry [https://python-poetry.org](https://python-poetry.org)
 
 #
 
 ### Some tools I've been playing with lately
 
-- **Nextgen** by Matt Brictson https://github.com/mattbrictson/nextgen
+- **Nextgen** by Matt Brictson [https://github.com/mattbrictson/nextgen](https://github.com/mattbrictson/nextgen)
   
-- **PicoCSS** https://picocss.com
+- **Cirrus UI** [https://cirrus-ui.com](https://cirrus-ui.com)
 
-- **Sierra SCSS** https://sierra-library.github.io
-
-- **Stimulus Components** https://www.stimulus-components.com
+- **Fly.io**  [https://fly](https://fly.io)
 
 #
 
 ### Some books I'm reading from [The Pragmatic Bookshelf](https://pragprog.com/categories/)
-- *Agile Web Development with Rails 7.2* by Sam Ruby
-- *Modern Front-End Development for Rails* (2nd Edition) by Noel Rappin
-- *Pragmatic Guide to Sass 3* by Hampton Catlin, Michael Catlin
-- *Ruby on Rails Background Jobs with Sidekiq* by David Bryant Copeland
-- *Modern Perl* (4th Edition), by chromatic
+- ***Agile Web Development with Rails 7.2*** by Sam Ruby
+- ***Modern Front-End Development for Rails*** (2nd Edition) by Noel Rappin
+- ***Effective Testing with RSpec 3*** by Myron Marston and Ian Dees
+- ***Ruby on Rails Background Jobs with Sidekiq*** by David Bryant Copeland
+- ***Every Crazy Thing JavaScript Does*** by <CB/> Coding Beauty
+- ***Modern Perl (4th Edition)***, by chromatic
 
 ### Other Books
-- *Tinker Tailor Soldier Spy* by John le Carré
-- *The 4-Hour Workweek, Expanded and Updated* by Timothy Ferriss
+- ***Tinker Tailor Soldier Spy*** by John le Carré
+- ***The Subtle Art of Not Giving a F*ck*** by Mark Manson
+- ***Everything is F*cked*** by Mark Manson
 
 ---
 
